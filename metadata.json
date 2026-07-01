@@ -1,0 +1,6 @@
+{
+  "name": "Dentist Website",
+  "description": "A premium, high-fidelity web application for dental clinics featuring interactive appointment booking, patient portal, treatment cost calculators, and oral health triage assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
